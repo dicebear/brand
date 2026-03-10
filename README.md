@@ -8,7 +8,7 @@ DiceBear SVG logos and favicons in black, blue, and white variants.
 
 ## License
 
-[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) — You may use and share these assets with attribution, but modifications are not permitted.
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — You may use and share these assets with attribution, but modifications are not permitted.
 
 ## Sponsors
 
