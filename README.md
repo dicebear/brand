@@ -4,7 +4,11 @@ Brand assets for [DiceBear](https://www.dicebear.com).
 
 ## Contents
 
-DiceBear SVG logos and favicons in black, blue, and white variants.
+DiceBear SVG logos and favicons.
+
+## Figma
+
+https://www.figma.com/design/3L57hmzvKcTzlPD8a1DHtY/DiceBear-Brand-Assets
 
 ## License
 
