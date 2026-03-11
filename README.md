@@ -6,6 +6,10 @@ Brand assets for [DiceBear](https://www.dicebear.com).
 
 DiceBear SVG logos and favicons.
 
+## Colors
+
+Brand color: `#0284C7`
+
 ## Figma
 
 https://www.figma.com/design/3L57hmzvKcTzlPD8a1DHtY/DiceBear-Brand-Assets
